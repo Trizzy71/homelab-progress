@@ -15,8 +15,9 @@ Active
 
 ## My Mini-Rack(6in/4u)
 - 6-inch rack design by Mauker (on MakerWorld)
-  - GL.iNet Slate 7
+  - UniFi UDR7
     - Primary router
+  - GL.iNet Slate 7
     - Wan access
   - 5-port 2.5 GbE swich (TP-Link)
   - Beelink s12 Mini 

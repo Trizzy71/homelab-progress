@@ -9,7 +9,7 @@ Hardware is all set, just need to focus on spinning it up.
 ## Planned Architecture
 
 ### NAS
-- OS: Fedora Server
+- OS: TrueNAS Scale
 - Role:
   - Primary storage
   - Docker host for core services

@@ -3,10 +3,10 @@
 Personal documentation of my homelab build and cybersecurity learning.
 
 ## Focus
-- Google Cybersecurity Course
+- Privacy
+- Self-Sovreignty
 - Networking
 - Servers
-- Security fundamentals
 - Practical, hands-on learning
 - Most of all, knowledge! Progress!!
 

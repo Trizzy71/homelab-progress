@@ -1,9 +1,2 @@
 # Networking Notes
-
-## What I’m working on
-VLANs, routing, firewall basics.
-
-## Observations
-- What worked
-- What broke
-- Why
+I have been so lazy and don't even have VLANs set up yet.
